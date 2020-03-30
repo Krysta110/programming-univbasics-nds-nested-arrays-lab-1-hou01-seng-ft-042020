@@ -38,6 +38,7 @@ def sorted_matrix
     conventional,
     organic,
   ]
+  return produce
 end
 
 def matrix_lookup(matrix, row, column)
